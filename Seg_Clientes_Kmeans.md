@@ -1,7 +1,7 @@
 # Análise de segmentação de clientes - Power BI
 
 ## Visão Geral
-Este relatório analisa os grupos da segmentação dos clientes a partir de um arquivo csv e a clusterização dentro do Power BI. A base foi obtida através do curso gratuito de Power BI da Data Science Academy, porém foi utilizada uma abordagem de segmentação dentro do Power BI ao invés do Jupyter Notebook. 
+Este relatório analisa os grupos da segmentação dos clientes a partir de um arquivo csv e a clusterização dentro do Power BI. A base foi obtida através do [curso gratuito de Power BI da Data Science Academy](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-business-intelligence-e-data-science), porém foi utilizada uma abordagem de segmentação dentro do Power BI ao invés do Jupyter Notebook. 
 
 
 ## Construção
